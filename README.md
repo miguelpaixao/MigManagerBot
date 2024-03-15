@@ -54,6 +54,5 @@ Para configurar o bot, crie um arquivo `config.json` na raiz do projeto com o se
 - Inicie o bot com node index.js
 
 ## Licença
-## Licença
-Este projeto está licenciado sob a Licença MIT
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
 
