@@ -1,0 +1,14 @@
+{
+  "token": "SEU_TOKEN_AQUI",
+
+  "dbConfig": {
+    "host": "ENDEREÇO_DO_SERVIDOR_DE_BANCO_DE_DADOS",
+    "user": "USUÁRIO_DO_BANCO_DE_DADOS",
+    "database": "NOME_DO_BANCO_DE_DADOS",
+    "password": "SENHA_DO_BANCO_DE_DADOS"
+  },
+  
+  "webhookUrl": "URL_DO_SEU_WEBHOOK_PARA_LOGS",
+  "guildId": "ID_DO_SERVIDOR_DISCORD",
+  "clientId": "ID_DO_BOT_DISCORD"
+}

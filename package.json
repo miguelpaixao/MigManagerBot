@@ -1,0 +1,31 @@
+{
+  "name": "migmanagerbot",
+  "version": "1.0.0",
+  "description": "MigAutoManager é um bot do Discord para gestão de estoques de veículos em servidores FiveM. Atualiza estoques em tempo real, e permite adicionar/remover Civics. Usa Discord.js para uma experiência interativa com Embeds, Buttons e Slash Commands.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelpaixao/MigManagerBot"
+  },
+  "keywords": [
+    "discord-bot",
+    "fivem",
+    "vehicle-management",
+    "discord.js",
+    "game-server"
+  ],
+  "author": "Miguel Paixão <miguel@almanaki.be>",
+  "license": "MIT",
+  "bugs": {
+    "url": "mailto:miguel@almanaki.be"
+  },
+  "homepage": "https://github.com/miguelpaixao/MigManagerBot",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "discord.js": "^14.14.1",
+    "mysql2": "^3.9.2"
+  }
+}
